@@ -29,7 +29,7 @@
 <div style="float:right;">
   <div style="display:flex;align-items:center">
     <div style="font-size:80%;padding-right:1rem;">
-      <a href="mailto:ndsnyder@umich.edu">ndsnyder@umich.edu</a> <br>
+      <a href="mailto:ndsnyder@umich.edu" target="_blank">ndsnyder@umich.edu</a> <br>
       mobile: +734 xxxxxxxx <br>
       Location: Ann Arbor, MI
     </div>
