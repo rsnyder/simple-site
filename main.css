@@ -9,7 +9,7 @@ body {
 .markdown-section {
   max-width: 1000px;
   color: #00274C;
-  background-color: rgba(255, 203, 5, .1);
+  background-color: rgba(255, 203, 5, .06);
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;  
 }
 
