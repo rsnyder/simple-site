@@ -16,7 +16,7 @@ Enthusiastic and driven recent Economics graduate from the University of Michiga
 
 ## Education
 
-- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/294px-Michigan_Wolverines_logo.svg.png)**University of Michigan, Ann Arbor, MI**  
+- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/24px-Michigan_Wolverines_logo.svg.png)**University of Michigan, Ann Arbor, MI**  
 Bachelor of Arts in Economics - April, 2023
 
 - **Washtenaw Community College, Ann Arbor, MI**  
