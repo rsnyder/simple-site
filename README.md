@@ -4,7 +4,7 @@
   - [ndsnyder@umich.edu](mailto:ndsnyder@umich.edu)
   - Mobile: 734-834-5941
   - Location: Ann Arbor, MI
-  - [PDF](Andrew_Snyder.pdf)
+  - [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Icon_pdf.svg/320px-Icon_pdf.svg.png)](/simple-site/Andrew_Snyder.pdf)
 - ![](avatar-man.jpg)
 
 ## Objective
@@ -17,7 +17,7 @@ Enthusiastic and driven recent Economics graduate from the University of Michiga
 
 ## Education
 
-- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/30px-Michigan_Wolverines_logo.svg.png)**University of Michigan, Ann Arbor, MI**  
+- ![Download as PDF](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/30px-Michigan_Wolverines_logo.svg.png)**University of Michigan, Ann Arbor, MI**  
 Bachelor of Arts in Economics - April, 2023
 
 - **Washtenaw Community College, Ann Arbor, MI**  

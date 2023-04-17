@@ -52,6 +52,11 @@ p {
     height: 80px;
 }
 
+#main h1 + ul li ul li a img {
+    margin-left: 0;
+    height: 32px;
+}
+
 #main li > p > img {
     margin-right: 6px;
     max-height: 24px;
