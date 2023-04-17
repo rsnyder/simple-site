@@ -4,6 +4,7 @@
   - [ndsnyder@umich.edu](mailto:ndsnyder@umich.edu)
   - Mobile: 734-834-5941
   - Location: Ann Arbor, MI
+  - [PDF](Andrew_Snyder.pdf)
 - ![](avatar-man.jpg)
 
 ## Objective
