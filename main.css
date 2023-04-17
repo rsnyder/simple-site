@@ -18,8 +18,27 @@ body {
 #main h1 span {
   color: #00274C;
 }
+
 #main h2 {
   font-size: 2rem;
   margin-top: 48px;
   clear: both;
+}
+
+#main h1 + ul {
+    float: right;
+    display: flex;
+    align-items: center;
+    margin-top: -80px;
+    list-style-type: none;
+}
+
+#main h1 + ul ul{
+    list-style-type: none;
+    font-size: 80%;
+}
+
+#main h1 ~ ul img {
+    margin-left: 12px;
+    height: 80px;
 }

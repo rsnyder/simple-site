@@ -1,44 +1,10 @@
-<style>
-  @import url(//fonts.googleapis.com/css?family=Montserrat); 
-  body {
-    font-size: 1.5rem;
-    font-family: Montserrat;
-  }
-  .content {
-    padding: 12px;
-  }
-  .markdown-section {
-    max-width: 1000px;
-    background-color: rgba(200,200,200,.1);
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;  }
-
-  #main h1 {
-    font-size: 2.5rem;
-    margin-top: 12px
-  }
-  #main h1 span {
-    color: #00274C;
-  }
-  #main h2 {
-    font-size: 2rem;
-    margin-top: 48px;
-    clear: both;
-  }
-</style>
-
-<div style="float:right;">
-  <div style="display:flex;align-items:center">
-    <div style="font-size:80%;padding-right:1rem;">
-      <a href="mailto:ndsnyder@umich.edu" target="_blank">ndsnyder@umich.edu</a> <br>
-      mobile: +734 xxxxxxxx <br>
-      Location: Ann Arbor, MI
-    </div>
-    <img style="float:right;border-radius:50%;width:100px;padding:6px" src="avatar-man.jpg" />
-  </div>
-
-</div>
-
 # Andrew D Snyder
+
+- 
+  - [ndsnyder@umich.edu](mailto:ndsnyder@umich.edu)
+  - Mobile: 734-834-xxxx
+  - Location: Ann Arbor, MI
+- ![](avatar-man.jpg)
 
 ## Objective
 

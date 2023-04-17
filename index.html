@@ -19,6 +19,7 @@
       autoHeader: false,
       auto2top: true,
       basePath: location.hostname === 'localhost' ? '/' : `https://rsnyder.github.io/`,
+      externalLinkTarget: '_blank',
       // coverpage: true,
       hideSidebar: true,
       homepage: 'README.md',
@@ -30,5 +31,21 @@
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script>
+
+    // Open mailto links in a new tab
+    new MutationObserver((mutationList, observer) => {
+      mutationList.forEach(mutation => {
+        if (mutation.type === 'childList') {
+          if (mutation.target.id === 'main') {
+            mutation.target.querySelectorAll('a').forEach(a => {
+              if (a.href.includes('mailto')) a.target = '_blank'
+            })
+          }
+        }
+      })
+    }).observe(document, { childList: true, subtree: true })
+
+  </script>
 </body>
 </html>
